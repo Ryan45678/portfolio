@@ -1,0 +1,70 @@
+run:
+1 threads:
+      1000 elements  =>       0 ms 
+      2000 elements  =>       0 ms 
+      4000 elements  =>       0 ms 
+      8000 elements  =>       0 ms 
+     16000 elements  =>      31 ms 
+     32000 elements  =>      32 ms 
+     64000 elements  =>      31 ms 
+    128000 elements  =>      47 ms 
+    256000 elements  =>     109 ms 
+    512000 elements  =>     266 ms 
+   1024000 elements  =>     468 ms 
+   2048000 elements  =>    1077 ms 
+   4096000 elements  =>    4119 ms 
+   8192000 elements  =>    5632 ms 
+  16384000 elements  =>   35397 ms 
+
+2 threads:
+      1000 elements  =>       0 ms 
+      2000 elements  =>       0 ms 
+      4000 elements  =>       0 ms 
+      8000 elements  =>       0 ms 
+     16000 elements  =>      16 ms 
+     32000 elements  =>       0 ms 
+     64000 elements  =>      15 ms 
+    128000 elements  =>      31 ms 
+    256000 elements  =>      94 ms 
+    512000 elements  =>     188 ms 
+   1024000 elements  =>     437 ms 
+   2048000 elements  =>     999 ms 
+   4096000 elements  =>    2277 ms 
+   8192000 elements  =>    5679 ms 
+  16384000 elements  =>   23182 ms 
+
+4 threads:
+      1000 elements  =>       0 ms 
+      2000 elements  =>       0 ms 
+      4000 elements  =>       0 ms 
+      8000 elements  =>       0 ms 
+     16000 elements  =>       0 ms 
+     32000 elements  =>      15 ms 
+     64000 elements  =>      16 ms 
+    128000 elements  =>      47 ms 
+    256000 elements  =>      78 ms 
+    512000 elements  =>     188 ms 
+   1024000 elements  =>     437 ms 
+   2048000 elements  =>    1061 ms 
+   4096000 elements  =>    2262 ms 
+   8192000 elements  =>    8392 ms 
+  16384000 elements  =>   18081 ms 
+
+8 threads:
+      1000 elements  =>       0 ms 
+      2000 elements  =>       0 ms 
+      4000 elements  =>       0 ms 
+      8000 elements  =>       0 ms 
+     16000 elements  =>       0 ms 
+     32000 elements  =>       0 ms 
+     64000 elements  =>      16 ms 
+    128000 elements  =>      47 ms 
+    256000 elements  =>      93 ms 
+    512000 elements  =>     187 ms 
+   1024000 elements  =>     453 ms 
+   2048000 elements  =>    1014 ms 
+   4096000 elements  =>    2293 ms 
+   8192000 elements  =>    5242 ms 
+  16384000 elements  =>   11498 ms 
+
+BUILD SUCCESSFUL (total time: 2 minutes 32 seconds)
