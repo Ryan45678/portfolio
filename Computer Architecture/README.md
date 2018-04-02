@@ -1,3 +1,3 @@
-This folder contains programming assignments completed in my Computer Architecture class. These were written in C++, typically with most of the code given, and we were asked to implement several functions.
+This folder contains the main programming assignment completed in my Computer Architecture class, which simulated a processor. These were written in C++, and the assignment was iterated and built on from assignment to assignment, so what is in this folder is the culmination of all the assignments in that class. Typically, most of the code for running the simulated processor was given, and we had to fill in the code to make it actually function the way it is supposed to.
 
-The majority of the assignments simulate a CPU
+The last assignment was 
