@@ -1,0 +1,5 @@
+Name: Dr. Mina Guirguis
+Education: BSc, Computer Science and Automatic Control, College of Engineering, Alexandria University; MA, Phd, Computer Science, College of Arts and Sciences, Boston University
+Research Interests: Security Aspects in Mobile Cyber-Physical Systems, Mobile Cloud Computing, Networks and Systems Security, and Digital Forensics
+Email: mg65@txstate.edu
+Webpage: http://www.cs.txstate.edu/~mg65/

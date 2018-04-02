@@ -1,0 +1,5 @@
+Name: Dr. Ziliang Zong
+Education: MS, BS, Shandong University; PhD, Auburn University
+Research Interests: High Performance Computing, Energy-Efficient Computing and Systems, Parallel Programming and Big Data Analytics
+Email: zz11@txstate.edu
+Webpage: http://cs.txstate.edu/~zz11

@@ -1,0 +1,5 @@
+Name: Dr. Qijun Gu
+Education: BS, MS, Peking University, Beijing; PhD, Pennsylvania State University.
+Research Interests: Network security, wireless security, information assurance
+Email: qg11@txstate.edu
+Webpage: http://www.cs.txstate.edu/~qg11/

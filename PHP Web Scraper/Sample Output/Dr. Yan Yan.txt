@@ -1,0 +1,5 @@
+Name: Dr. Yan Yan
+Education: 
+Research Interests: Computer Vision, Machine Learning, Multimedia
+Email: y_y34@txstate.edu
+Webpage: http://cs.txstate.edu/~y_y34/

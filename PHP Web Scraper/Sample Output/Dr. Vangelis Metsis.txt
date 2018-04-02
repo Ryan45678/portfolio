@@ -1,0 +1,5 @@
+Name: Dr. Vangelis Metsis
+Education: BS, Athens University of Economics and Business; PhD, University of Texas at Arlington
+Research Interests: Machine Learning, Data Mining, Computer Vision, Bioinformatics & Computational Biology, Pervasive Computing & Assistive Technologies
+Email: v_m137@txstate.edu
+Webpage: http://cs.txstate.edu/~v_m137/

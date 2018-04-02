@@ -1,0 +1,5 @@
+Name: Dr. Wuxu Peng
+Education: BE, University of Science and Technology of China; PhD, Pennsylvania State University
+Research Interests: Distributed/parallel computing, specification and verification of communication protocols, wireless and sensor networks
+Email: wp01@txstate.edu
+Webpage: http://keystone.cs.txstate.edu/personal/

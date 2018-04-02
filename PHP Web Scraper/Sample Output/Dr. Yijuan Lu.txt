@@ -1,0 +1,5 @@
+Name: Dr. Yijuan Lu
+Education: BE, Anhui University, China; PhD, University of Texas at San Antonio
+Research Interests: Multimedia Information Retrieval, Machine Learning, Pattern Recognition, Computer Vision, Data Mining and Bioinformatics
+Email: yl12@txstate.edu
+Webpage: http://www.cs.txstate.edu/~yl12

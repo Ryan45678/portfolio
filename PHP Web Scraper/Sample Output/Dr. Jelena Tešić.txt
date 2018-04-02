@@ -1,0 +1,5 @@
+Name: Dr. Jelena Tešić
+Education: BSc University of Belgrade Serbia; MS, PhD, University of California Santa Barbara
+Research Interests: Machine Learning, Visual Recognition, Deep Neural Networks, Image and Video Database Management, Multimedia Analytics
+Email: j_t463@txstate.edu
+Webpage: http://cs.txstate.edu/~j_t463/

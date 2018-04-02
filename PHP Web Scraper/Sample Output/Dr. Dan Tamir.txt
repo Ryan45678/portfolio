@@ -1,0 +1,5 @@
+Name: Dr. Dan Tamir
+Education: BS, MS, Ben-Gurion University of the Negev; PhD, Florida State University.
+Research Interests: Image and signal processing, computer vision, data compression, data mining, clustering, classification, pattern recognition, computer architecture, computer graphics
+Email: dt19@txstate.edu
+Webpage: http://www.cs.txstate.edu/~dt19

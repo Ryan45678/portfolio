@@ -1,0 +1,5 @@
+Name: Dr. C. Jinshong Hwang
+Education: BS, MS, National Taiwan University; PhD Louisiana State University
+Research Interests: Database systems, object oriented systems, software engineering, algorithms, knowledge engineering, ad hoc network
+Email: ch01@txstate.edu
+Webpage: 

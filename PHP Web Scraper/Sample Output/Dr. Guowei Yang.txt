@@ -1,0 +1,5 @@
+Name: Dr. Guowei Yang
+Education: BE, Harbin Institute of Technology; ME, Institute of Software Chinese Academy of Sciences; MS, University of Nebraska-Lincoln; PhD, University of Texas at Austin
+Research Interests: Software verification and testing, software evolution, program analysis, and formal methods
+Email: g_y10@txstate.edu
+Webpage: http://www.cs.txstate.edu/~g_y10

@@ -1,0 +1,5 @@
+Name: Dr. Martin Burtscher
+Education: BS, MS, Eidgenossische Technische Hochschule (ETH), Switzerland; PhD, University of Colorado
+Research Interests: GPU programming, program parallelization, performance assessment, data compression, computer architecture
+Email: mb92@txstate.edu
+Webpage: http://www.cs.txstate.edu/~mb92/

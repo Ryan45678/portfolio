@@ -1,0 +1,5 @@
+Name: Dr. Rodion Podorozhny
+Education: BSc, St. Petersburg State Tech University; MSc, University of Massachusetts, Amherst; PhD University of Texas, Austin
+Research Interests: software engineering, software process, formal analysis methods, multi-agent systems, distributed artificial intelligence
+Email: rp31@txstate.edu
+Webpage: http://www.cs.txstate.edu/~rp31

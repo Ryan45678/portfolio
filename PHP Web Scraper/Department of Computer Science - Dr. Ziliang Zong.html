@@ -1,0 +1,603 @@
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+    
+        <title>Department of Computer Science - Dr. Ziliang Zong</title>
+    
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta content="text/html">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">    
+    <link rel="shortcut icon" href="favicon.ico">  
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>   
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="/static/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Plugins CSS -->    
+    <link rel="stylesheet" href="/static/plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="/static/plugins/flexslider/flexslider.css">
+    <link rel="stylesheet" href="/static/plugins/pretty-photo/css/prettyPhoto.css"> 
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="/static/css/txstate.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    
+</head> 
+<body class="home-page">
+    <div class="wrapper">
+        <!-- ******HEADER****** -->
+        <header class="header">
+            <div class="top-bar">
+                <div class="container">
+                    <ul class="social-icons col-md-6 col-sm-6 col-xs-12 hidden-xs">
+                        <li><a target="_blank" href="https://twitter.com/TxStCompSci" ><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/txstatecs/" ><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/user/txstateu" ><i class="fa fa-youtube"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/texas-state-university" ><i class="fa fa-linkedin"></i></a></li>
+                        <li><a target="_blank" href="https://github.com/txstate" ><i class="fa fa-github"></i></a></li>
+                        <li class="row-end"><a href="/news/latest/feed/" target="_blank" ><i class="fa fa-rss"></i></a></li>
+                    </ul><!--//social-icons-->
+                    <form class="pull-right search-form" role="search" action="http://search.txstate.edu/search" method="get">
+                        <input type="hidden" name="site" value="txstate_no_users">
+                        <input type="hidden" name="client" value="txstate">
+                        <input type="hidden" name="output" value="xml_no_dtd">
+                        <input type="hidden" name="proxystylesheet" value="txstate">
+                        <input type="hidden" name="sitesearch" value="cs.txstate.edu">
+                        <div class="form-group">
+                            <input name='q' type="text" class="form-control" placeholder="Search the site...">
+                        </div>
+                        <button type="submit" class="btn btn-theme">Go</button>
+                    </form>
+                </div>
+            </div><!--//to-bar-->
+            <div class="header-main container">
+                <div class="info col-md-3 col-sm-3 hidden-xs">
+                    <ul class="menu-top navbar-left">
+                        <li class="divider"><a href="/">Home</a></li>
+                        <li class="divider"><a href="/about_us/faq/">FAQ</a></li>
+                        <li><a href="/academics/advising/">Advising</a></li>
+                    </ul>
+                    <br />
+                    <div class="contact navbar-left">
+                        <p><i class="fa fa-caret-right"></i><a href="http://www.txstate.edu">Texas State University</a></p> 
+                        <p><i class="fa fa-caret-right"></i><a href="http://cose.txstate.edu">College of Science and Engineering</a></p> 
+                    </div><!--//contact-->
+                </div>
+                <div class="logo col-md-6 col-sm-6 text-center">
+                    <img class="logo-img" id="logo" src="/static/images/logo.png" alt="CS Logo" usemap="#logo_map">
+                    <map name="logo_map">
+                        <area shape="rect" coords="0,0,248,44" alt="Texas State University" href="http://txstate.edu">
+                        <area shape="rect" coords="0,44,248,66" alt="Texas State Computer Science Department" href="/">
+                    </map>
+                </div><!--//logo-->
+                <div class="info col-md-3 col-sm-3 hidden-xs">
+                    <ul class="menu-top navbar-right">
+                        <li class="divider"><a href="/about_us/contact_information/">Contact</a></li>
+                        <li><a href="/about_us/our_location/">Location</a></li>
+                    </ul><!--//menu-top-->
+                    <br />
+                    <div class="contact navbar-right">
+                        <p class="phone"><i class="fa fa-phone-square"></i><a href="#">512 245 3409</a></p> 
+                        <p class="email"><i class="fa fa-envelope"></i><a href="mailto:cs_info@txstate.edu">cs_info@txstate.edu</a></p><!--//email-->
+                    </div><!--//contact-->
+                </div><!--//info-->
+            </div><!--//header-main-->
+        </header><!--//header-->
+
+        <!-- ******NAV****** -->
+        <nav class="main-nav" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button><!--//nav-toggle-->
+                </div><!--//navbar-header-->            
+                <div class="navbar-collapse collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        
+                            <li class="nav-item" id="nav-item-home"><a href="/">Home</a></li>
+                        
+                        
+                            
+                                
+                                    <li class="nav-item dropdown" id="nav-item-About Us">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/about_us/">About Us <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        <li><a href="/about_us/">About Us</a></li>
+                                        
+                                        
+                                        <li><a href="/about_us/contact_information/">Contact Information</a></li>
+                                        
+                                        <li><a href="/about_us/disclaimer/">Disclaimer</a></li>
+                                        
+                                        <li><a href="/about_us/faq/">FAQ</a></li>
+                                        
+                                        <li><a href="/about_us/our_location/">Our Location</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                
+                                    <li class="nav-item active dropdown" id="nav-item-People">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/accounts/">People <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                        <li><a href="/accounts/advisors/">Advisors</a></li>
+                                        
+                                        <li><a href="/accounts/faculty/">Faculty</a></li>
+                                        
+                                        <li><a href="/accounts/lab_assistants/">Lab Assistants</a></li>
+                                        
+                                        <li><a href="/accounts/lab_instructors/">Lab Instructors</a></li>
+                                        
+                                        <li><a href="/accounts/researchers/">Researchers</a></li>
+                                        
+                                        <li><a href="/accounts/staff/">Staff</a></li>
+                                        
+                                        <li><a href="/accounts/student_workers/">Student Workers</a></li>
+                                        
+                                        <li><a href="/accounts/tutors/">Tutors</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                
+                                    <li class="nav-item dropdown" id="nav-item-Academics">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/academics/">Academics <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                        <li><a href="/academics/advising/">Advising</a></li>
+                                        
+                                        <li><a href="/academics/scheduled_courses/">Course Schedules</a></li>
+                                        
+                                        <li><a href="/academics/round_rock_campus/">Round Rock Campus</a></li>
+                                        
+                                        <li><a href="/academics/undergraduate_program/">Undergraduate Program</a></li>
+                                        
+                                        <li><a href="/academics/graduate_program/">Masters Program</a></li>
+                                        
+                                        <li><a href="/academics/phd/">PhD Program</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                
+                                    <li class="nav-item dropdown" id="nav-item-Research">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/research/">Research <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        <li><a href="/research/">Research</a></li>
+                                        
+                                        
+                                        <li><a href="/research/hpc/">High Performance Computing</a></li>
+                                        
+                                        <li><a href="/research/hci/">Human Computer Interaction</a></li>
+                                        
+                                        <li><a href="/research/idig/">Information and Data Innovation</a></li>
+                                        
+                                        <li><a href="/research/networking_and_security/">Networking and Cyber Security</a></li>
+                                        
+                                        <li><a href="/research/software_engineering/">Software Engineering</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                
+                                    <li class="nav-item dropdown" id="nav-item-News">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/news/">News <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        <li><a href="/news/">News</a></li>
+                                        
+                                        
+                                        <li><a href="/news/awards/">Awards</a></li>
+                                        
+                                        <li><a href="/news/awards_day/">Awards Day</a></li>
+                                        
+                                        <li><a href="https://cs.txstate.edu/calendar/1/">Events</a></li>
+                                        
+                                        <li><a href="/news/grants/">Grants</a></li>
+                                        
+                                        <li><a href="/news/scholarships/">Scholarships</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                
+                                    <li class="nav-item dropdown" id="nav-item-Resources">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/resources/">Resources <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                        <li><a href="/resources/affiliates/">Affiliate Programs and Groups</a></li>
+                                        
+                                        <li><a href="/resources/financial_aid/">Financial Aid and Scholarships</a></li>
+                                        
+                                        <li><a href="/resources/independent_study/">Independent Study Course</a></li>
+                                        
+                                        <li><a href="/resources/labs/">Labs</a></li>
+                                        
+                                        <li><a href="https://ibis.sap.txstate.edu/irj/portal">SAP</a></li>
+                                        
+                                        <li><a href="https://tracs.txstate.edu/">TRACS</a></li>
+                                        
+                                        <li><a href="/resources/cad/">Coding Across the Disciplines - Program for Teachers</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                
+                                    <li class="nav-item dropdown" id="nav-item-Employment">
+                                
+                                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/employment/">Employment <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                        <li><a href="/employment/faculty/">Faculty</a></li>
+                                        
+                                        <li><a href="/employment/staff/">Staff</a></li>
+                                        
+                                        <li><a href="/employment/student/">Student</a></li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                    </ul><!--//nav-->
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                        <li class="nav-item"><a href="/accounts/login/?next=/accounts/profiles/zz11/">Login</a></li>
+                    
+                    </ul>
+                </div><!--//navabr-collapse-->
+            </div><!--//container-->
+        </nav><!--//main-nav-->
+
+
+<div class="content container">
+    <div class="page-wrapper">
+        
+        <header class="page-heading clearfix">
+            <h3 class="heading-title pull-left">
+                
+                    Dr.
+                
+                
+                    Ziliang
+                
+                
+                    Zong
+                
+            </h3>
+            <div class="breadcrumbs pull-right">
+                <ul class="breadcrumbs-list">
+                    <li class="breadcrumbs-label">You are here:</li>
+                    <li><a href="/">Home</a><i class="fa fa-angle-right"></i></li>
+                    <li><a href="/accounts/">Accounts</a><i class="fa fa-angle-right"></i></li>
+                    <li class="current">
+                        
+                            Ziliang
+                        
+                        
+                            Zong
+                        
+                        
+                    </li>
+                </ul>
+            </div><!--//breadcrumbs-->
+        </header>
+
+        <div class="page-content">
+            <div class="row page-row">
+                
+                
+                <div id="content_container" class="content-wrapper col-md-12 col-sm-12">
+                </section><!--//links-->
+                
+                
+                
+<div class="team-wrapper col-md-12 col-sm-12">
+    <div class="row page-row" >
+        <figure class="thumb col-md-3 col-sm-4 col-xs-6">
+            
+                <img class="img-responsive" src="/media/accounts/photos/b60e6c52-0133-4fad-a65b-d4c06721c1f3.jpg" alt="" />
+            
+        </figure>
+        <div class="details col-md-9 col-sm-8 col-xs-6">
+            
+                <h4 class="has-divider title">Associate Professor</h4>
+            
+            
+                <h4><small><a target="_blank" href="http://cs.txstate.edu/~zz11">Homepage</a></small></h4>
+            
+            
+                <img style="padding-left: 2px;" class="email-image" src="/cms/email_image/?user=ziliang&domain=txstate.edu&font_size=12&font_color=888888">
+            
+        </div>
+    </div>
+    
+    <div class="row page-row" >
+        <div class="col-md-12 col-sm-11 col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Research Interests</h3>
+                </div>
+                <div class="panel-body"><p>High Performance Computing, Energy-Efficient Computing and Systems, Parallel Programming and Big Data Analytics</p></div>
+            </div>
+        </div>
+    </div><!--//row-->
+    
+    
+    <div class="row page-row" >
+        <div class="col-md-12 col-sm-11 col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Education</h3>
+                </div>
+                <div class="panel-body"><p>MS, BS, Shandong University; PhD, Auburn University</p></div>
+            </div>
+        </div>
+    </div><!--//row-->
+    
+    <div class="row page-row" >
+        
+        <div class="col-md-4 col-sm-12 col-xs-12">
+            <div class = "panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Office Location</h3>
+                </div>
+                <div class="panel-body">
+                    
+                    <p>CMAL 301C</p><p> San Marcos Campus</p>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="col-md-4 col-xs-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Office Hours</h3>
+                </div>
+                <div class="panel-body">
+                    
+                        
+                            
+                            <p>SM::T R: 1 p.m. until 3:30 p.m.<p>
+                            
+                        
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="col-md-4 col-xs-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Office Phone</h3>
+                </div>
+                <div class="panel-body">
+                    
+                    <p>512.245.8344</p><p> San Marcos Campus</p>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div class="row page-row" >
+        <div class="col-md-12 col-sm-11 col-xs-12">
+            <h3 style="cursor: pointer;" class="has-divider text-highlight" onclick="toggle_classes('current')">Current Classes <small>(Fall)</small> <i class="fa fa-angle-down"></i></h3>
+            
+            <div id="current_classes_table" class="table-responsive" style="display: None;">
+                <table class="table table-boxed">
+                    <thead>
+                        <tr>
+                            <th>Course</th>
+                            <th>Section</th>
+                            <th>Meets</th>
+                            <th>From</th>
+                            <th>Until</th>
+                            <th>Location</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    
+                        <tr>
+                            <td><a href="/academics/course_detail/CS/1428/">CS 1428</a></td>
+                            <td>H01</td>
+                            <td>--T-R--</td>
+                            <td>
+                                
+                                11 a.m.
+                                
+                            </td>
+                            <td>
+                                
+                                12:20 p.m.
+                                
+                            </td>
+                            <td>
+                                
+                                DERR 00235
+                                
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td><a href="/academics/course_detail/CS/4379Y/">CS 4379Y</a></td>
+                            <td>001</td>
+                            <td>--T-R--</td>
+                            <td>
+                                
+                                3:30 p.m.
+                                
+                            </td>
+                            <td>
+                                
+                                4:50 p.m.
+                                
+                            </td>
+                            <td>
+                                
+                                DERR 00235
+                                
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td><a href="/academics/course_detail/CS/5369Y/">CS 5369Y</a></td>
+                            <td>001</td>
+                            <td>--T-R--</td>
+                            <td>
+                                
+                                3:30 p.m.
+                                
+                            </td>
+                            <td>
+                                
+                                4:50 p.m.
+                                
+                            </td>
+                            <td>
+                                
+                                DERR 00235
+                                
+                            </td>
+                        </tr>
+                    
+                    </tbody>
+                </table>
+            </div>
+            
+        </div>
+    </div><!--//row-->
+    
+    
+</div><!--//team-wrapper-->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div><!--//wrapper-->
+
+    <!-- ******FOOTER****** --> 
+    
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-12 col-sm-12">
+                        <div class="footer-col-inner">
+                            <a href="http://www.texas.gov/">State of Texas</a> |
+                            <a href="http://www.txstate.edu/">Texas State University</a> |
+                            <a href="http://www.cose.txstate.edu/">College of Science and Engineering</a> | 
+                            <a href="/"> Computer Science Department</a><br/>
+                            <a href="/about_us/contact_information/">Contact Us</a> |
+                            <a href="/about_us/disclaimer/">Disclaimer</a>
+                        </div><!--//footer-col-inner-->
+                    </div><!--//foooter-col-->
+                </div>
+            </div>
+        </div><!--//footer-content-->
+        <div class="bottom-bar">
+            <div class="container">
+                <div class="row">
+                    <a class="col-md-3 col-sm-12 col-xs-12 text-center" href="http://txstate.edu"><img class="txstate_logo" src="/static/images/Texas_State_Secondary_H_Gold.png" alt="Texas State Logo"></a>
+                    <small class="copyright text-center col-md-6 col-sm-12 col-xs-12">Copyright @ 2017 Department of Computer Science - Texas State University</small>
+                    <ul class="social pull-right col-md-3 col-sm-12 col-xs-12">
+                        <li><a target="_blank" href="https://twitter.com/TxStCompSci" ><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/groups/txstatecs/" ><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/user/txstateu" ><i class="fa fa-youtube"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/texas-state-university" ><i class="fa fa-linkedin"></i></a></li>
+                        <li><a target="_blank" href="https://github.com/txstate" ><i class="fa fa-github"></i></a></li>
+                        <li class="row-end"><a href="/news/latest/feed/" target="_blank" ><i class="fa fa-rss"></i></a></li>
+                    </ul><!--//social-->
+
+                </div><!--//row-->
+            </div><!--//container-->
+        </div><!--//bottom-bar-->
+    </footer><!--//footer-->
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="/static/plugins/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/static/plugins/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="/static/plugins/bootstrap/js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="/static/plugins/bootstrap-hover-dropdown.min.js"></script> 
+    <script type="text/javascript" src="/static/plugins/back-to-top.js"></script>
+    <script type="text/javascript" src="/static/plugins/jquery-placeholder/jquery.placeholder.js"></script>
+    <script type="text/javascript" src="/static/plugins/pretty-photo/js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="/static/plugins/flexslider/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="/static/plugins/jflickrfeed/jflickrfeed.min.js"></script> 
+    <script type="text/javascript" src="/static/js/main.js"></script>            
+    <script type="text/javascript" src="/static/plugins/jquery.cookie.js"></script>
+    <script type="text/javascript">
+        var csrftoken = $.cookie('csrftoken');
+        function csrfSafeMethod(method) {
+            // these HTTP methods do not require CSRF protection
+            return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+        }
+        $.ajaxSetup({
+            beforeSend: function(xhr, settings) {
+                if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+                    xhr.setRequestHeader("X-CSRFToken", csrftoken);
+                }
+            }
+        });
+    </script>
+
+    
+
+<script type="text/javascript">
+    function toggle_classes(semester) {
+        $('#' + semester + "_classes_table").toggle("slow");
+    }
+</script>
+
+
+</body>
+</html> 

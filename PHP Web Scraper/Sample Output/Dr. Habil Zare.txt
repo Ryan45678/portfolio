@@ -1,0 +1,5 @@
+Name: Dr. Habil Zare
+Education: BS, MS, Sharif University of Technology; PhD, University of British Columbia
+Research Interests: Bioinformatics, Cancer Research, Genetics, Epigenomics, Data Mining and Statistical Machine Learning, Computational Complexity, and Graph Theory
+Email: h_z14@txstate.edu
+Webpage: http://cs.txstate.edu/~h_z14/

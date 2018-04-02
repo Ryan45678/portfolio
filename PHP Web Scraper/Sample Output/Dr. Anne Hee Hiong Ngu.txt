@@ -1,0 +1,5 @@
+Name: Dr. Anne Hee Hiong Ngu
+Education: BS, PhD, in Computer Science, University of Western Australia
+Research Interests: Information integration over the web, service oriented computing, databases, scientific workflows and agent technologies . The unifying theme of my research has been to provide transparent global access to heterogeneous, distributed autonomous information sources. Information sources could include services/applications/tools on the Web, databases, multimedia systems or legacy applications.
+Email: hn12@txstate.edu
+Webpage: http://www.cs.txstate.edu/~hn12
