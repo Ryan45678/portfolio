@@ -6,7 +6,7 @@ Assignment 5-2: Nested Linked Lists, including depth-first and breadth-first tra
 Assignment 6: Binary search tree implemented using linked lists
 
 
-Assignment 8: 
+Assignment 8: Hash tables
 
 
 
