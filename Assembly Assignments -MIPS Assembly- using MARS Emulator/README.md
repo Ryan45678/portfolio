@@ -2,4 +2,4 @@ This folder contains a few assignments from my Assembly language class. They are
 
 For most of the assignments in this class, some of the code was given, and the rest was up to the students to fill out.
 
-The MARS Jar file is also included.
+The customized MARS Jar file that was provieded by the professor for use in the class is also included.
